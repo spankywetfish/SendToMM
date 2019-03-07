@@ -6,7 +6,7 @@ import certifi
 mmURL = 'https://<yourwebhookURLhere>'
 
 output_data = {}
-output_data['text'] = 'text)'
+output_data['text'] = 'text'
 output_data['username'] = 'username'
 output_data['icon'] = 'icon URL'
 output_data['title'] = 'title'
